@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "System Info Extension",
+  "version": "1.0",
+  "permissions": [
+    "system.cpu",
+    "system.memory",
+    "system.storage",
+    "runtime",
+    "management",
+    "enterprise.deviceAttributes",
+    "storage",
+    "identity"
+
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsuprjDd8EyYHEGtk4v5fN615sMDyGpykJmU70obhBQGAwpODtilInD/oQ7Mt/UkOovs1LStDTz7EdF4/gKhVpPosbdWYh8fB95prmjHX6lrGC2DZNKSNJ9/VMe8bHNoeYZC6I7sos09L23iSQsh8CiLUGpijMBYXQcOtfDhOUYdgpDgjPNxKv3MDQkWyxV6BmauvL/jjOxGr5HqbVySvVboO+PRjh75LOItn3a0IgxJBM1g/DM3JGstYXHdsiDaUqmsIRL9imguZW6aYDpVowvyMzJreIrNp+Gxpcfk+yU4iQ/hL2n5TNZuYbgDllfLSHrQ+Wl3eArkbO45stn5S5wIDAQAB"
+}

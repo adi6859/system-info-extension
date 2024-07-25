@@ -1,0 +1,741 @@
+System Information
+Get System Info
+{
+  "getall": [
+    {
+      "description": "Run Linux commands at ChromeOS startup.",
+      "enabled": true,
+      "homepageUrl": "https://github.com/supechicken/ChromeOS-AutoStart",
+      "hostPermissions": [],
+      "icons": [
+        {
+          "size": 192,
+          "url": "chrome://extension-icon/algkcnfjnajfhgimadimbjhmpaeohhln/192/0"
+        },
+        {
+          "size": 512,
+          "url": "chrome://extension-icon/algkcnfjnajfhgimadimbjhmpaeohhln/512/0"
+        }
+      ],
+      "id": "algkcnfjnajfhgimadimbjhmpaeohhln",
+      "installType": "development",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "ChromeOS AutoStart",
+      "offlineEnabled": true,
+      "optionsUrl": "chrome-extension://algkcnfjnajfhgimadimbjhmpaeohhln/html/options_page.html",
+      "permissions": [
+        "notifications",
+        "storage",
+        "terminalPrivate"
+      ],
+      "shortName": "ChromeOS AutoStart",
+      "type": "extension",
+      "version": "5.2.0"
+    },
+    {
+      "description": "",
+      "enabled": true,
+      "homepageUrl": "",
+      "hostPermissions": [],
+      "id": "bgfdkeaofghkfmbaekhodehpdokijalj",
+      "installType": "development",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "System Info Extension",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [
+        "management",
+        "system.cpu",
+        "system.memory",
+        "system.storage"
+      ],
+      "shortName": "System Info Extension",
+      "type": "extension",
+      "version": "1.0"
+    },
+    {
+      "description": "Automate commands in the Crosh terminal and fetch output.",
+      "enabled": true,
+      "homepageUrl": "",
+      "hostPermissions": [],
+      "id": "cdmcpgndjmpibllcbkaanoghlobencfo",
+      "installType": "development",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "Crosh Automation",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [],
+      "shortName": "Crosh Automation",
+      "type": "extension",
+      "version": "1.0"
+    },
+    {
+      "description": "System monitor",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/ehlkkfgebbcopebkhaajnekhljklcklg",
+      "hostPermissions": [],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/16/0"
+        },
+        {
+          "size": 22,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/22/0"
+        },
+        {
+          "size": 24,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/24/0"
+        },
+        {
+          "size": 32,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/32/0"
+        },
+        {
+          "size": 36,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/36/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/48/0"
+        },
+        {
+          "size": 64,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/64/0"
+        },
+        {
+          "size": 72,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/72/0"
+        },
+        {
+          "size": 96,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/96/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/128/0"
+        },
+        {
+          "size": 192,
+          "url": "chrome://extension-icon/ehlkkfgebbcopebkhaajnekhljklcklg/192/0"
+        }
+      ],
+      "id": "ehlkkfgebbcopebkhaajnekhljklcklg",
+      "installType": "normal",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "SysMonitor",
+      "offlineEnabled": true,
+      "optionsUrl": "",
+      "permissions": [
+        "storage",
+        "system.cpu",
+        "system.memory",
+        "system.storage",
+        "unlimitedStorage"
+      ],
+      "shortName": "SysMonitor",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "0.1"
+    },
+    {
+      "description": "Chrome Extension for Boosting Volume Past Max Settings",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/ejkiikneibegknkgimmihdpcbcedgmpo",
+      "hostPermissions": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "icons": [
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/ejkiikneibegknkgimmihdpcbcedgmpo/128/0"
+        }
+      ],
+      "id": "ejkiikneibegknkgimmihdpcbcedgmpo",
+      "installType": "normal",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "Volume Booster",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [
+        "activeTab",
+        "offscreen",
+        "tabCapture"
+      ],
+      "shortName": "Volume Booster",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "1.0.0"
+    },
+    {
+      "description": "Edit, create and view your documents, spreadsheets and presentations – all without Internet access.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+      "hostPermissions": [
+        "https://docs.google.com/*",
+        "https://drive.google.com/*"
+      ],
+      "icons": [
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/ghbmnnjooekpmoecnnnilnnbdlolhkhi/128/0"
+        }
+      ],
+      "id": "ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+      "installType": "sideload",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "Google Docs Offline",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [
+        "alarms",
+        "offscreen",
+        "storage",
+        "unlimitedStorage"
+      ],
+      "shortName": "Google Docs Offline",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "1.78.1"
+    },
+    {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/inojafojbhdpnehkhhfjalgjjobnhomj",
+      "hostPermissions": [
+        "*://*.temp-mail.org/*"
+      ],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/inojafojbhdpnehkhhfjalgjjobnhomj/16/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/inojafojbhdpnehkhhfjalgjjobnhomj/48/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/inojafojbhdpnehkhhfjalgjjobnhomj/128/0"
+        }
+      ],
+      "id": "inojafojbhdpnehkhhfjalgjjobnhomj",
+      "installType": "normal",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "Temp Mail - Disposable Temporary Email",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [
+        "alarms",
+        "contextMenus",
+        "notifications",
+        "storage",
+        "tabs"
+      ],
+      "shortName": "TempMail",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "0.1.0"
+    },
+    {
+      "appLaunchUrl": "https://slack.com/ssb",
+      "availableLaunchTypes": [
+        "OPEN_AS_REGULAR_TAB",
+        "OPEN_AS_WINDOW"
+      ],
+      "description": "Slack is all your team communication in one place, instantly searchable, available wherever you go.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/jeogkiiogjbmhklcnbgkdcjoioegiknm",
+      "hostPermissions": [],
+      "icons": [
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/jeogkiiogjbmhklcnbgkdcjoioegiknm/128/0"
+        }
+      ],
+      "id": "jeogkiiogjbmhklcnbgkdcjoioegiknm",
+      "installType": "normal",
+      "isApp": true,
+      "launchType": "OPEN_AS_REGULAR_TAB",
+      "mayDisable": true,
+      "name": "Slack",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [
+        "clipboardRead",
+        "clipboardWrite",
+        "notifications",
+        "unlimitedStorage"
+      ],
+      "shortName": "Slack",
+      "type": "hosted_app",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "1.0.3"
+    },
+    {
+      "description": "View source code of Chrome extensions, Firefox addons or Opera extensions (crx/nex/xpi) from the Chrome web store and elsewhere.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin",
+      "hostPermissions": [
+        "*://clients2.google.com/*",
+        "*://clients2.googleusercontent.com/*"
+      ],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/jifpbeccnghkjeaalbbjmodiffmgedin/16/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/jifpbeccnghkjeaalbbjmodiffmgedin/48/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/jifpbeccnghkjeaalbbjmodiffmgedin/128/0"
+        }
+      ],
+      "id": "jifpbeccnghkjeaalbbjmodiffmgedin",
+      "installType": "normal",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "Chrome extension source viewer",
+      "offlineEnabled": false,
+      "optionsUrl": "chrome-extension://jifpbeccnghkjeaalbbjmodiffmgedin/options.html#optionsV2",
+      "permissions": [
+        "contextMenus",
+        "declarativeContent",
+        "downloads",
+        "storage",
+        "tabs"
+      ],
+      "shortName": "CRX Viewer",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "1.7.0"
+    },
+    {
+      "description": "Improve your writing with all-in-one assistance—including generative AI, grammar check, and more.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen",
+      "hostPermissions": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/kbfnbcaeplbcioakkpcpgfkobkghlhen/16/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/kbfnbcaeplbcioakkpcpgfkobkghlhen/48/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/kbfnbcaeplbcioakkpcpgfkobkghlhen/128/0"
+        }
+      ],
+      "id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+      "installType": "normal",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "Grammarly: AI Writing and Grammar Checker App",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [
+        "cookies",
+        "notifications",
+        "scripting",
+        "storage",
+        "tabs"
+      ],
+      "shortName": "Grammarly: AI Writing and Grammar Checker App",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "14.1187.0"
+    },
+    {
+      "description": "Open Drive files directly from your browser in compatible applications installed on your computer.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/lmjegmlicamnimmfhcmpkclmigmmcbeh",
+      "hostPermissions": [
+        "https://docs.google.com/*",
+        "https://drive.google.com/*"
+      ],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/lmjegmlicamnimmfhcmpkclmigmmcbeh/16/0"
+        },
+        {
+          "size": 64,
+          "url": "chrome://extension-icon/lmjegmlicamnimmfhcmpkclmigmmcbeh/64/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/lmjegmlicamnimmfhcmpkclmigmmcbeh/128/0"
+        },
+        {
+          "size": 256,
+          "url": "chrome://extension-icon/lmjegmlicamnimmfhcmpkclmigmmcbeh/256/0"
+        }
+      ],
+      "id": "lmjegmlicamnimmfhcmpkclmigmmcbeh",
+      "installType": "sideload",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "Application launcher for Drive (by Google)",
+      "offlineEnabled": false,
+      "optionsUrl": "",
+      "permissions": [
+        "nativeMessaging",
+        "offscreen"
+      ],
+      "shortName": "Google Drive app launcher",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "3.10"
+    },
+    {
+      "appLaunchUrl": "",
+      "availableLaunchTypes": [
+        "OPEN_AS_WINDOW"
+      ],
+      "description": "A text editor for Chrome OS and Chrome.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+      "hostPermissions": [],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/mmfbcljfglbokpmkimbfghdkjmjhdgbg/16/0"
+        },
+        {
+          "size": 32,
+          "url": "chrome://extension-icon/mmfbcljfglbokpmkimbfghdkjmjhdgbg/32/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/mmfbcljfglbokpmkimbfghdkjmjhdgbg/48/0"
+        },
+        {
+          "size": 64,
+          "url": "chrome://extension-icon/mmfbcljfglbokpmkimbfghdkjmjhdgbg/64/0"
+        },
+        {
+          "size": 96,
+          "url": "chrome://extension-icon/mmfbcljfglbokpmkimbfghdkjmjhdgbg/96/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/mmfbcljfglbokpmkimbfghdkjmjhdgbg/128/0"
+        },
+        {
+          "size": 256,
+          "url": "chrome://extension-icon/mmfbcljfglbokpmkimbfghdkjmjhdgbg/256/0"
+        }
+      ],
+      "id": "mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+      "installType": "sideload",
+      "isApp": true,
+      "launchType": "OPEN_AS_WINDOW",
+      "mayDisable": true,
+      "name": "Text",
+      "offlineEnabled": true,
+      "optionsUrl": "",
+      "permissions": [
+        "app.window.alwaysOnTop",
+        "fileSystem",
+        "fileSystem.retainEntries",
+        "fileSystem.write",
+        "storage"
+      ],
+      "shortName": "Text",
+      "type": "packaged_app",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "0.8.4"
+    },
+    {
+      "appLaunchUrl": "",
+      "availableLaunchTypes": [
+        "OPEN_AS_WINDOW"
+      ],
+      "description": "What's in your computer? System provides a lot of technical infos about your computer.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/ocjnemjmlhjkeilmaidemofakmpclcbi",
+      "hostPermissions": [
+        "http://maps.googleapis.com/*",
+        "https://www.google-analytics.com/*"
+      ],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/ocjnemjmlhjkeilmaidemofakmpclcbi/16/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/ocjnemjmlhjkeilmaidemofakmpclcbi/48/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/ocjnemjmlhjkeilmaidemofakmpclcbi/128/0"
+        }
+      ],
+      "id": "ocjnemjmlhjkeilmaidemofakmpclcbi",
+      "installType": "normal",
+      "isApp": true,
+      "launchType": "OPEN_AS_WINDOW",
+      "mayDisable": true,
+      "name": "System",
+      "offlineEnabled": true,
+      "optionsUrl": "",
+      "permissions": [
+        "geolocation",
+        "idle",
+        "mediaGalleries",
+        "notifications",
+        "storage",
+        "system.cpu",
+        "system.display",
+        "system.memory",
+        "system.network",
+        "system.storage"
+      ],
+      "shortName": "System",
+      "type": "packaged_app",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "2.4"
+    },
+    {
+      "appLaunchUrl": "",
+      "availableLaunchTypes": [
+        "OPEN_AS_WINDOW"
+      ],
+      "description": "A Web Server for Chrome, serves web pages from a local folder over the network, using HTTP. Runs offline.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/ofhbbkphhbklhfoeikjpcbhemlocgigb",
+      "hostPermissions": [],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/16/0"
+        },
+        {
+          "size": 19,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/19/0"
+        },
+        {
+          "size": 32,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/32/0"
+        },
+        {
+          "size": 38,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/38/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/48/0"
+        },
+        {
+          "size": 64,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/64/0"
+        },
+        {
+          "size": 96,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/96/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/128/0"
+        },
+        {
+          "size": 256,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/256/0"
+        },
+        {
+          "size": 512,
+          "url": "chrome://extension-icon/ofhbbkphhbklhfoeikjpcbhemlocgigb/512/0"
+        }
+      ],
+      "id": "ofhbbkphhbklhfoeikjpcbhemlocgigb",
+      "installType": "normal",
+      "isApp": true,
+      "launchType": "OPEN_AS_WINDOW",
+      "mayDisable": true,
+      "name": "Web Server for Chrome",
+      "offlineEnabled": true,
+      "optionsUrl": "",
+      "permissions": [
+        "alarms",
+        "browser",
+        "fileSystem",
+        "fileSystem.directory",
+        "fileSystem.retainEntries",
+        "fileSystem.write",
+        "notifications",
+        "power",
+        "storage",
+        "system.network",
+        "unlimitedStorage"
+      ],
+      "shortName": "Web Server",
+      "type": "packaged_app",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "0.5.2"
+    },
+    {
+      "description": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.",
+      "enabled": true,
+      "homepageUrl": "https://chrome.google.com/webstore/detail/ohcpnigalekghcmgcdcenkpelffpdolg",
+      "hostPermissions": [
+        "<all_urls>",
+        "chrome://favicon/*"
+      ],
+      "icons": [
+        {
+          "size": 16,
+          "url": "chrome://extension-icon/ohcpnigalekghcmgcdcenkpelffpdolg/16/0"
+        },
+        {
+          "size": 32,
+          "url": "chrome://extension-icon/ohcpnigalekghcmgcdcenkpelffpdolg/32/0"
+        },
+        {
+          "size": 48,
+          "url": "chrome://extension-icon/ohcpnigalekghcmgcdcenkpelffpdolg/48/0"
+        },
+        {
+          "size": 64,
+          "url": "chrome://extension-icon/ohcpnigalekghcmgcdcenkpelffpdolg/64/0"
+        },
+        {
+          "size": 128,
+          "url": "chrome://extension-icon/ohcpnigalekghcmgcdcenkpelffpdolg/128/0"
+        }
+      ],
+      "id": "ohcpnigalekghcmgcdcenkpelffpdolg",
+      "installType": "normal",
+      "isApp": false,
+      "mayDisable": true,
+      "name": "ColorPick Eyedropper",
+      "offlineEnabled": false,
+      "optionsUrl": "chrome-extension://ohcpnigalekghcmgcdcenkpelffpdolg/options.html",
+      "permissions": [
+        "activeTab",
+        "alarms",
+        "storage",
+        "tabs"
+      ],
+      "shortName": "ColorPick Eyedropper",
+      "type": "extension",
+      "updateUrl": "https://clients2.google.com/service/update2/crx",
+      "version": "0.0.2.38"
+    }
+  ]
+}
+
+
+Installed Apps
+ChromeOS AutoStart (Version: 5.2.0)
+System Info Extension (Version: 1.0)
+Crosh Automation (Version: 1.0)
+SysMonitor (Version: 0.1)
+Volume Booster (Version: 1.0.0)
+Google Docs Offline (Version: 1.78.1)
+Temp Mail - Disposable Temporary Email (Version: 0.1.0)
+Slack (Version: 1.0.3)
+Chrome extension source viewer (Version: 1.7.0)
+Grammarly: AI Writing and Grammar Checker App (Version: 14.1187.0)
+Installed Apps Fetcher (Version: 1.0)
+Application launcher for Drive (by Google) (Version: 3.10)
+Text (Version: 0.8.4)
+System (Version: 2.4)
+Web Server for Chrome (Version: 0.5.2)
+ColorPick Eyedropper (Version: 0.0.2.38)
+
+
+Installed Apps
+Volume Booster (Version: 1.0.0)
+Google Docs Offline (Version: 1.78.1)
+Slack (Version: 1.0.3)
+Grammarly: AI Writing and Grammar Checker App (Version: 14.1188.0)
+Installed Apps Fetcher (Version: 1.0)
+Application launcher for Drive (by Google) (Version: 3.10)
+Text (Version: 0.8.4)
+System (Version: 2.4)
+Web Server for Chrome (Version: 0.5.2)
+
+
+
+
+
+
+{
+    "architecture": "x86",
+    "bitness": "64",
+    "brands": [
+        {
+            "brand": "Not/A)Brand",
+            "version": "8"
+        },
+        {
+            "brand": "Chromium",
+            "version": "126"
+        },
+        {
+            "brand": "Google Chrome",
+            "version": "126"
+        }
+    ],
+    "fullVersionList": [
+        {
+            "brand": "Not/A)Brand",
+            "version": "8.0.0.0"
+        },
+        {
+            "brand": "Chromium",
+            "version": "126.0.6478.178"
+        },
+        {
+            "brand": "Google Chrome",
+            "version": "126.0.6478.178"
+        }
+    ],
+    "mobile": false,
+    "model": "",
+    "platform": "Chrome OS",
+    "platformVersion": "15886.62.0",
+    "uaFullVersion": "126.0.6478.178"
+}
+
+// Define the list of high entropy values to request
+const highEntropyValues = [
+  'architecture',
+  'bitness',
+  'model',
+  'platform',
+  'platformVersion',
+  'uaFullVersion',
+  'fullVersionList',
+  'formFactor',
+  'wow64'
+];
+
+// Request the high entropy values
+navigator.userAgentData
+  .getHighEntropyValues(highEntropyValues)
+  .then(ua => {
+    // Print the full user agent data object
+    console.log(ua);
+  })
+  .catch(error => {
+    console.error('Error fetching high entropy values:', error);
+  });
